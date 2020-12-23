@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANKwxnGliXKCnB24/5gt8w/i6+Rj4NLsdS+D/QOB64/2QYAkjrPlaWt8iLD4K4oG54iMoyPiSMXjBzMRvn0/Bw==",
+  "success": true,
+  "projectFilePath": "G:\\Personal\\Gighub\\API\\Registration\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DIZINOVA-Nandan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DIZINOVA-Nandan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

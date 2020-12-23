@@ -1,0 +1,9 @@
+G:\Personal\Gighub\API\Registration\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+G:\Personal\Gighub\API\Registration\Domain\bin\Debug\netstandard2.0\Domain.dll
+G:\Personal\Gighub\API\Registration\Domain\bin\Debug\netstandard2.0\Domain.pdb
+G:\Personal\Gighub\API\Registration\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+G:\Personal\Gighub\API\Registration\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+G:\Personal\Gighub\API\Registration\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+G:\Personal\Gighub\API\Registration\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+G:\Personal\Gighub\API\Registration\Domain\obj\Debug\netstandard2.0\Domain.dll
+G:\Personal\Gighub\API\Registration\Domain\obj\Debug\netstandard2.0\Domain.pdb
